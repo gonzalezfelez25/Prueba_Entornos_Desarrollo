@@ -12,7 +12,7 @@ public class Primer_programa {
 		
 		while(contador<=10) {
 			System.out.println("El numero es: " + contador);
-			contador=contador+2;
+			contador=contador+3;
 		}
 	}
 
